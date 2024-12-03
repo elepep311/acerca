@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acerca de RDcompany</title>
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+        body {
+            background: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: #000;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            margin-bottom: 20px;
+            color: #000;
+        }
+        .team-member {
+            margin: 20px 0;
+            padding: 20px;
+            background: #f9f9f9;
+            border-radius: 8px;
+            text-align: center;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #000;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Bienvenido a RDcompany</h1>
+    <nav>
+        <ul>
+            <li><a href="https://cdpn.io/pen/debug/ogvXwZV?authentication_hash=yoAZEDBKvgOr">Inicio</a></li>
+            
+        </ul>
+    </nav>
+</header>
+
+<section>
+    <h2>Acerca de RDcompany</h2>
+    <p>RDcompany nació de la visión de dos amigos, Rebeca y Donis, que compartían una pasión por los productos de calidad. En sus inicios, comenzaron vendiendo artesanías locales en ferias y mercados, donde rápidamente se dieron cuenta de la demanda de productos únicos y de alta calidad.</p>
+    <p>Con el tiempo, decidieron formalizar su emprendimiento y crear una tienda en línea donde pudieran ofrecer una selección curada de productos excepcionales. Desde entonces, RDcompany se ha convertido en un referente en el mercado, conocido por su atención al detalle, su compromiso con la calidad y su excelente servicio al cliente.</p>
+    <p>Nuestra misión es ofrecer solo lo mejor a nuestros clientes, garantizando que cada producto que vendemos cumpla con los más altos estándares de calidad. Creemos que cada compra debe ser una experiencia gratificante y estamos aquí para asegurarnos de que eso suceda.</p>
+
+   
